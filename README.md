@@ -1,90 +1,131 @@
-# Hi there 👋, I'm Gaurav Kumar
+# 👋 Hi, I'm Gaurav Kumar
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Engineer;Data+Science+Enthusiast;FastAPI+%7C+Flask+Developer;Kaggle+Competitor;Always+Learning+Something+New" alt="Typing SVG" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=GAURAV%20KUMAR&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20Engineer%20|%20ML%20Engineer%20|%20Backend%20Developer&descAlignY=60"/>
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning+Enthusiast;Backend+Developer;FastAPI+%26+Flask+Developer;Kaggle+Competitor;Building+Production+Ready+AI+Systems"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mr-gaurav-kumar&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+</p>
 
 ---
 
-## 🚀 About Me
+# 🚀 Building Production-Ready AI Systems
 
-🎓 Computer Science Student
+> AI-powered applications • Backend APIs • Machine Learning • Recommendation Systems • Intelligent Automation
 
-🤖 Passionate about Artificial Intelligence & Machine Learning
+---
 
-📊 Building end-to-end Data Science and ML projects
+## 👨‍💻 About Me
 
-🏆 Active Kaggle Competitor
+* 🎓 BS Degree in Data Science & Applications – IIT Madras
+* 🏆 Active Kaggle Competitor
+* 🧠 Passionate about Artificial Intelligence & Machine Learning
+* 💻 Backend Developer using Flask & FastAPI
+* 📚 Solving DSA (Striver A-Z Sheet)
+* ☁️ Exploring MLOps & Cloud Technologies
+* 🚀 Building Real-World AI Applications
+* 🎯 Goal: Become a World-Class AI Engineer
 
-📚 Currently learning:
+---
+
+## 🎯 Current Focus
 
 * Machine Learning
 * Deep Learning
-* MLOps
-* System Design
-* Data Structures & Algorithms
-
-🔭 Working on:
-
 * RAG Applications
 * AI Assistants
-* Recommendation Systems
-* FastAPI Projects
+* FastAPI Backend Development
+* System Design
+* MLOps & Deployment
 
 ---
 
-## 🛠️ Tech Stack
+## ⚒️ Tech Stack
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-
-### Machine Learning & Data Science
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,mysql,sqlite"/>
+</p>
 
 ### Backend Development
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite)
+<p>
+<img src="https://skillicons.dev/icons?i=flask,fastapi"/>
+</p>
 
-### Tools
+### Tools & Platforms
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visual-studio-code)
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker"/>
+</p>
+
+### Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn"/>
+<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 Featured Projects
 
 ### 🎵 EchoTune Music Recommender
 
-AI-powered music recommendation system that suggests songs based on user preferences and listening patterns.
+AI-powered recommendation system that suggests songs based on listening behavior and user preferences.
 
-### 🤖 Retrieval Augmented Generation (RAG)
-
-Built a developer-focused RAG system using embeddings and semantic search.
-
-### 📝 Quiz Master V2
-
-Full-stack quiz platform with Flask, Vue.js, Redis, Celery, and SQLite.
-
-### 📊 Machine Learning Projects
-
-Regression, Classification, Feature Engineering, Hyperparameter Tuning, and Model Optimization.
+🔗 https://github.com/mr-gaurav-kumar/EchoTune-Music-Recommender
 
 ---
 
-## 📈 GitHub Stats
+### 🤖 Retrieval Augmented Generation (RAG)
+
+Developer-focused RAG system using embeddings and semantic search for intelligent retrieval.
+
+---
+
+### 📝 Quiz Master V2
+
+Full-stack quiz platform built with Flask, Vue.js, Redis, Celery, and SQLite.
+
+---
+
+### 📊 Machine Learning Projects
+
+Projects covering:
+
+* Regression
+* Classification
+* Feature Engineering
+* Hyperparameter Tuning
+* Model Optimization
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mr-gaurav-kumar&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-gaurav-kumar&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mr-gaurav-kumar&theme=react-dark&hide_border=true&area=true"/>
 </p>
 
 ---
@@ -92,21 +133,84 @@ Regression, Classification, Feature Engineering, Hyperparameter Tuning, and Mode
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-gaurav-kumar&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 🏆 GitHub Trophies
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/YOUR_USERNAME)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=mr-gaurav-kumar&theme=tokyonight&row=1&column=7&no-frame=true"/>
+</p>
 
 ---
 
-### 💡 Quote
+## 📚 Currently Learning
 
-"Consistency beats intensity. Small improvements every day compound into extraordinary results."
+```text
+Machine Learning      ████████████████░ 90%
+Deep Learning         ████████████░░░░ 75%
+FastAPI               ███████████████░ 85%
+System Design         ████████░░░░░░░░ 50%
+MLOps                 ██████░░░░░░░░░░ 40%
+```
 
-⭐ If you like my work, consider starring my repositories.
+---
+
+## 🐍 Snake Contribution Animation
+
+```md
+![Snake animation](https://github.com/mr-gaurav-kumar/mr-gaurav-kumar/blob/output/github-contribution-grid-snake-dark.svg)
+```
+
+> Requires GitHub Actions setup.
+
+---
+
+## 📈 Activity Metrics
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mr-gaurav-kumar&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mr-gaurav-kumar&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mr-gaurav-kumar&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/mr-gaurav-kumar">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="#">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="#">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+## 💡 Quote
+
+> Consistency beats intensity. Small improvements every day compound into extraordinary results.
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! ⭐
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+</p>
